@@ -1,0 +1,1 @@
+[INFO][pkg.go:12]2022/07/18 15:55:04 userService--fallback failed with '{"id":"go.micro.client","code":500,"detail":"用户名已存在","status":"Internal Server Error"}'. run error was '{"id":"go.micro.client","code":500,"detail":"用户名已存在","status":"Internal Server Error"}'
